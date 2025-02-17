@@ -1,6 +1,6 @@
 ### Hi there, I'm Sandra 👋
 
-🎓 **Recent Graduate | Aspiring Software Developer | Data Enthusiast | Teaching Assistant**
+🎓 **Recent Graduate | Aspiring Software Developer | Teaching Assistant**
 
 I recently graduated with a degree in  Design and Digital Creations, and I'm now transitioning into a career in **Software Development** or **Data Analysis**. During my studies and through various **short courses**, I've built a strong foundation in:
 
