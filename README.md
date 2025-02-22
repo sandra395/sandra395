@@ -1,7 +1,5 @@
 ### Hi there, I'm Sandra 👋
 
-🎓 **Recent Graduate | Aspiring Software Developer | Teaching Assistant**
-
 [LinkedIn](https://www.linkedin.com/in/sandra-b-bb217b120/)
 
 
@@ -28,7 +26,5 @@ I’m committed to constantly improving my skills and applying them to real-worl
 - Enhancing my Python skills through hands-on projects and coding challenges for both software development and data analysis.
 - Gaining deeper expertise in SQL and PostgreSQL for more advanced database management and optimization.
 - Participating in open-source projects and coding challenges to apply what I’ve learned and collaborate with others
-  
-🔗 **Contact**:  
-- 🌐 LinkedIn: https://www.linkedin.com/in/sandra-b-bb217b120
+
 
