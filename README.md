@@ -12,8 +12,7 @@ I recently graduated with a degree in  Design and Digital Creations, and I'm now
 
 
 💼 **Current Role**:  
-As a Teaching Assistant, I help students grasp technical concepts, debug code, and improve problem-solving skills. 
-This role has honed my communication and collaboration skills, which are vital in the tech world.
+In my role as a Teaching Assistant, I guide students through complex technical topics and help them build strong problem-solving foundations. Along the way, I’ve enhanced my ability to communicate clearly and work effectively with others—skills that are essential in any tech-driven team.
 
 📂 **What I've Worked On**:  
 I've completed several **projects** during my courses that reflect my learning journey. 
