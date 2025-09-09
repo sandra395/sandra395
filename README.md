@@ -3,7 +3,7 @@
 [LinkedIn](https://www.linkedin.com/in/sandra-b-bb217b120/)
 
 
-I graduated with a degree in Design and Digital Creations, and I'm now transitioning into a career in **Software Development**. 
+I graduated with a degree in Design and Digital Creations, and I'm now transitioning into a career in **Front-End, Full-Stack, or Software Engineering**.
 
 🚀 I’m currently completing the **Northcoders Part-Time Software Development Bootcamp (JavaScript)**, where I’m working on my **final project**.  
 
