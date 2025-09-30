@@ -7,7 +7,8 @@
 
 **Web Development**:  
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+
           
   - HTML, CSS, and modern JavaScript (ES6+)  
   - React for building interactive user interfaces  
