@@ -1,6 +1,7 @@
 ### Hi there, I'm Sandra 👋
 
-[LinkedIn](https://www.linkedin.com/in/sandra-b-bb217b120/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-b-bb217b120/)
+
 
 🚀  **Aspiring Junior Front-End / Full-Stack Developer** with a degree in Design and Digital Creations and recent completion of the **Northcoders Part-Time Software development Bootcamp**, including a final full-stack project. Skilled in HTML, CSS, JavaScript, React, Node.js, and PostgreSQL, with hands-on experience building responsive, user-friendly web applications. Passionate about learning new technologies, solving problems, and collaborating in tech teams.
 
