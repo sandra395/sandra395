@@ -5,34 +5,51 @@
 🚀  **Aspiring Junior Front-End / Full-Stack Developer** with a degree in Design and Digital Creations and recent completion of the **Northcoders Part-Time Software development Bootcamp**, including a final full-stack project. Skilled in HTML, CSS, JavaScript, React, Node.js, and PostgreSQL, with hands-on experience building responsive, user-friendly web applications. Passionate about learning new technologies, solving problems, and collaborating in tech teams.
 
 
-**Web Development**:  
+**Languages & Frameworks**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&scale=100)
+**Frontend:** 
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&scale=4)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&scale=4)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&scale=4)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&scale=4)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Backend:**  
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&scale=4)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge)
 
 
-          
-  - HTML, CSS, and modern JavaScript (ES6+)  
-  - React for building interactive user interfaces  
-  - Node.js and Express for backend development  
-  - RESTful APIs and integration  
+**Programming & Testing:**  
 
- **Programming**:  
-  - JavaScript as my primary language for full-stack development  
-  - Python for software development and data analysis  
-  - Test-driven development (TDD) with Jest and other testing frameworks  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Functional Programming](https://img.shields.io/badge/Functional_Programming-4CAF50?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-FF6F61?style=for-the-badge)
+![Async JS](https://img.shields.io/badge/Async_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Unit Testing / Jest](https://img.shields.io/badge/Unit_Testing-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-  **Databases**:  
-  - Relational databases: SQL, MySQL, PostgreSQL  
-  - Query optimization and database design  
-  - Using ORMs and writing raw SQL queries  
 
- **Basic Data Concepts**:  
-  - Data cleaning, manipulation, and exploration using Python fundamentals 
 
-  **Collaboration & Workflow**:  
-  - Agile methodology, some pair programming
-  - Git and GitHub for version control and collaborative development  
-  - Code reviews and best practices for clean, maintainable code  
+**Tools & Workflow:**  
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-336791?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-F4C430?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean_Code-4CAF50?style=for-the-badge)
+![Pair Programming](https://img.shields.io/badge/Pair_Programming-FF6F61?style=for-the-badge)
+
+
+
+
+
+
 
 
 💼 **Current Role**:  
