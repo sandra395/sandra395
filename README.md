@@ -100,7 +100,7 @@ I enjoy turning ideas and designs into functional interfaces while considering:
 
 User Experience | Accessibility | Responsive Design | Visual Hierarchy | Usability | Maintainable Frontend Code
 
-📚 Background
+### 📚 Background
 
 🎓 Software Development Bootcamp - Northcoders
 
