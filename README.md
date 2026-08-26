@@ -3,78 +3,130 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-b-bb217b120/)
 
 
-🚀  **Aspiring Junior Front-End / Full-Stack Developer** with a degree in Design and Digital Creations and recent completion of the **Northcoders Part-Time Software development Bootcamp**, including a final full-stack project. Skilled in HTML, CSS, JavaScript, React, Node.js, and PostgreSQL, with hands-on experience building responsive, user-friendly web applications. Passionate about learning new technologies, solving problems, and collaborating in tech teams.
+## Junior Frontend Developer
+
+I’m a Junior Frontend Developer and UI Designer focused on building responsive, accessible and user-focused web experiences.
+I work primarily with **React, TypeScript, JavaScript and Next.js**, with a background in **UI/UX design, Figma and accessibility**. I also have full-stack JavaScript experience with **Node.js, Express, PostgreSQL and REST APIs**.
 
 
-**Languages & Frameworks**
+### 💻 What I'm currently working on
 
-**Frontend:** 
+- 🌱 Contributing to a real-world website as a **Frontend Developer & UI Designer** with Women Coding Community
+- ⚛️ Building frontend applications with **React, TypeScript and Next.js**
+- 🎨 Designing and implementing responsive interfaces using **Figma, Material UI and CSS**
+- ♿ Applying **accessibility and responsive design principles** to improve user experiences
+- 🔧 Strengthening my full-stack JavaScript skills with **Node.js, Express and PostgreSQL**
+- 🧪 Practising reliable development through **Jest and Test-Driven Development**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&scale=4)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&scale=4)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&scale=4)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&scale=4)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### 🛠️ Tech Stack
 
-**Backend:**  
+**Frontend**
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Material UI
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&scale=4)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful_API-blue?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge)
+**Backend & Data**
+- Node.js
+- Express.js
+- PostgreSQL
+- REST APIs
+- Supabase
+- SQL
 
+**Testing & Development**
+- Jest
+- Test-Driven Development
+- Git
+- GitHub
 
-**Programming & Testing:**  
+**Design & Accessibility**
+- Figma
+- UI/UX Design
+- Wireframing
+- Responsive Design
+- WCAG Accessibility
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Functional Programming](https://img.shields.io/badge/Functional_Programming-4CAF50?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-FF6F61?style=for-the-badge)
-![Async JS](https://img.shields.io/badge/Async_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Unit Testing / Jest](https://img.shields.io/badge/Unit_Testing-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+### 🚀 Featured Projects
 
+#### 🏠 AirbNC - UK Stays
 
+A full-stack property booking platform built as part of my software development training.
 
-**Tools & Workflow:**  
+**Built with:** React, JavaScript, CSS, Node.js, Express, PostgreSQL, Supabase and Jest.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge)
-![Database](https://img.shields.io/badge/Database-336791?style=for-the-badge)
-![Debugging](https://img.shields.io/badge/Debugging-F4C430?style=for-the-badge)
-![Clean Code](https://img.shields.io/badge/Clean_Code-4CAF50?style=for-the-badge)
-![Pair Programming](https://img.shields.io/badge/Pair_Programming-FF6F61?style=for-the-badge)
+Key areas of development included:
+- Responsive React frontend
+- Property listings and search
+- Booking functionality
+- REST API development
+- PostgreSQL database integration
+- Testing with Jest
+- Responsive and accessible UI
 
+**Live Demo:** (https://ukstays.netlify.app/)
+**Frontend:** (https://github.com/sandra395/AirbNC-frontend)
+**Backend:** (https://github.com/sandra395/AirbNC-backend)
 
+---
 
+#### ⚛️ Frontend Challenges Showcase
 
+A collection of frontend projects built to practise and demonstrate modern frontend development.
 
+**Built with:** React, Next.js, JavaScript, HTML, CSS, Tailwind CSS and APIs.
 
+Projects include interactive applications such as a dictionary app and to-do list, with a focus on:
+- Reusable React components
+- API integration
+- React Hooks
+- Responsive design
+- Cross-device usability
+- Modern frontend development
 
+**Live Demo:** (https://frontend-challenges-web.netlify.app/)
+**Repository:** (https://github.com/sandra395/Frontend-challenges-showcase)
 
-💼 **Current Role**:  
-In my role as a Teaching Assistant, I guide students through challenging topics, help them develop problem-solving skills, and collaborate closely with teachers and staff. Along the way, I continue to strengthen my communication, teamwork, and collaboration skills, which are essential in any tech-driven environment.
+### 🎨 Design & Development
 
- 💼 **Career Focus**  
-I’m seeking opportunities as **Front-End or Full-Stack Software developer** where I can contribute, continue learning, and grow in a collaborative development environment.
+My background in **Design & Digital Creation** gives me a strong interest in the relationship between design and development.
 
-📂 **What I've Worked On**:  
-I've completed several **projects** during my courses that reflect my learning journey. 
-These projects cover areas such as **web development**, **Python programming**, and **database management**, 
-and they've allowed me to apply the concepts and technologies I've learned in a practical way.
- 
-🌱 **Next Steps**  
-I’m focused on continuing to learn and practice my skills by:  
+I enjoy translating designs into functional interfaces while considering:
 
-- Building personal projects to apply what I’ve learned.
-- Learning TypeScript  
-- Practicing JavaScript and Python through coding challenges.  
-- Improving my database skills with small projects and queries.  
-- Exploring new technologies and frameworks in web development.  
-- Participating in open-source projects to gain experience and collaboration exposure.
+- User experience
+- Accessibility
+- Responsive layouts
+- Visual consistency
+- Usability
+- Maintainable frontend code
 
+### 📚 Background
 
+🎓 **Software Development Bootcamp in JavaScript - Northcoders**
+
+ Part-time full-stack JavaScript bootcamp covering React, Node.js, Express, PostgreSQL, REST APIs, testing and agile-style development.
+
+🎓 **BA Design & Digital Creation - Open University of Catalonia**
+
+Multidisciplinary degree focused on UX/UI, interaction design and digital product development.
+
+### 🎯 What I'm Looking For
+
+I’m currently looking for **Junior Frontend Developer opportunities** where I can contribute to real products, learn from experienced engineers and continue developing as a frontend specialist.
+
+I’m also open to suitable **Junior Full-Stack Developer opportunities** where I can apply my broader JavaScript and backend experience.
+
+---
+
+📍 London, UK
+
+💻 Junior Frontend Developer | React | TypeScript | Next.js
+
+🎨 UI/UX | Accessibility | Responsive Design
  
 
 
