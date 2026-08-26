@@ -20,36 +20,21 @@ I work primarily with **React, TypeScript, JavaScript and Next.js**, with a back
 
 ### 🛠️ Tech Stack
 
-**Frontend**
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- Material UI
+### Frontend
 
-**Backend & Data**
-- Node.js
-- Express.js
-- PostgreSQL
-- REST APIs
-- Supabase
-- SQL
+JavaScript | TypeScript | React | Next.js | HTML5 | CSS3 | Tailwind CSS | Material UI
 
-**Testing & Development**
-- Jest
-- Test-Driven Development
-- Git
-- GitHub
+### Backend & Data
 
-**Design & Accessibility**
-- Figma
-- UI/UX Design
-- Wireframing
-- Responsive Design
-- WCAG Accessibility
+Node.js | Express.js | PostgreSQL | REST APIs | Supabase | SQL
+
+### Testing & Development
+
+Jest | Test-Driven Development | Git | GitHub
+
+### Design & Accessibility
+
+Figma | UI/UX Design | Wireframing | Responsive Design | WCAG Accessibility
 
 ### 🚀 Featured Projects
 
@@ -74,7 +59,7 @@ Key areas of development included:
 
 ---
 
-#### ⚛️ Frontend Challenges Showcase
+#### ⚛️ Frontend Projects & Challenges
 
 A collection of frontend projects built to practise and demonstrate modern frontend development.
 
@@ -91,18 +76,21 @@ Projects include interactive applications such as a dictionary app and to-do lis
 **Live Demo:** (https://frontend-challenges-web.netlify.app/)
 **Repository:** (https://github.com/sandra395/Frontend-challenges-showcase)
 
-### 🎨 Design & Development
+#### 📱 HealthyScan - UX/UI Design Project
 
-My background in **Design & Digital Creation** gives me a strong interest in the relationship between design and development.
+An individual university UX/UI project focused on designing a mobile application to help users make more informed decisions about food products.
 
-I enjoy translating designs into functional interfaces while considering:
+My Role:
+- Independently developed the project from concept through prototype
+- Designed user flows and information architecture
+- Created wireframes and high-fidelity interfaces in Figma
+- Developed an interactive prototype
+- Applied user-centred design and usability principles
+- Considered accessibility and responsive interface design
 
-- User experience
-- Accessibility
-- Responsive layouts
-- Visual consistency
-- Usability
-- Maintainable frontend code
+**Figma Prototype:** (https://www.figma.com/proto/RjZs6oYwF1OMk274tV5mpC/Prototipo?node-id=157-729&t=6iGYFHl7hZgspNVY-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A832)
+
+**Repository:**  (https://github.com/sandra395/HealthyScan-App)
 
 ### 📚 Background
 
@@ -120,13 +108,6 @@ I’m currently looking for **Junior Frontend Developer opportunities** where I 
 
 I’m also open to suitable **Junior Full-Stack Developer opportunities** where I can apply my broader JavaScript and backend experience.
 
----
-
-📍 London, UK
-
-💻 Junior Frontend Developer | React | TypeScript | Next.js
-
-🎨 UI/UX | Accessibility | Responsive Design
  
 
 
