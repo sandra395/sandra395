@@ -92,15 +92,23 @@ My Role:
 
 **Repository:**  (https://github.com/sandra395/HealthyScan-App)
 
-### 📚 Background
+### 🎨 Design + Development
 
-🎓 **Software Development Bootcamp in JavaScript - Northcoders**
+My background in Design & Digital Creation gives me a strong interest in the connection between design and development.
 
- Part-time full-stack JavaScript bootcamp covering React, Node.js, Express, PostgreSQL, REST APIs, testing and agile-style development.
+I enjoy turning ideas and designs into functional interfaces while considering:
 
-🎓 **BA Design & Digital Creation - Open University of Catalonia**
+User Experience | Accessibility | Responsive Design | Visual Hierarchy | Usability | Maintainable Frontend Code
 
-Multidisciplinary degree focused on UX/UI, interaction design and digital product development.
+📚 Background
+
+🎓 Software Development Bootcamp - Northcoders
+
+Full-stack JavaScript training covering React, Node.js, Express, PostgreSQL, REST APIs, testing and agile development.
+
+🎓 BA Design & Digital Creation - Open University of Catalonia
+
+Degree focused on UX/UI, interaction design and digital product development.
 
 ### 🎯 What I'm Looking For
 
