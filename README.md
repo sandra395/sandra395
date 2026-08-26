@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-b-bb217b120/)
 
 
-## Junior Frontend Developer
+## Junior Frontend Developer | React | TypeScript | Next.js | UI/UX
 
 I’m a Junior Frontend Developer and UI Designer focused on building responsive, accessible and user-focused web experiences.
 I work primarily with **React, TypeScript, JavaScript and Next.js**, with a background in **UI/UX design, Figma and accessibility**. I also have full-stack JavaScript experience with **Node.js, Express, PostgreSQL and REST APIs**.
